@@ -1,0 +1,10 @@
+Package: selikup
+Version: 1.0
+Architecture: all
+Maintainer: Fatih ÖNDER <fatih@algyazilim.com>
+Installed-Size: 89
+Depends: python3, python3-pyqt5, python3-requests, python3-bs4, python3-certifi, python3-chardet, python3-idna, python3-urllib3
+Section: utils
+Priority: optional
+Homepage: https://algyazilim.com
+Description: This program helps you download and install the kernel from the KERNEL main repository.

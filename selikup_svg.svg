@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="64" height="64">
+  <path fill="#ffeea3" d="M57.5 3.5H61.5V74.5H57.5z" />
+  <path fill="#f5c276" d="M61,4v70h-3V4H61 M62,3h-5v72h5V3L62,3z" />
+  <path fill="#ffeea3" d="M49.5 3.5H53.5V74.5H49.5z" />
+  <path fill="#f5c276" d="M53,4v70h-3V4H53 M54,3h-5v72h5V3L54,3z" />
+  <path fill="#ffeea3" d="M41.5 3.5H45.5V74.5H41.5z" />
+  <path fill="#f5c276" d="M45,4v70h-3V4H45 M46,3h-5v72h5V3L46,3z" />
+  <path fill="#ffeea3" d="M33.5 3.5H37.5V74.5H33.5z" />
+  <path fill="#f5c276" d="M37,4v70h-3V4H37 M38,3h-5v72h5V3L38,3z" />
+  <path fill="#ffeea3" d="M25.5 3.5H29.5V74.5H25.5z" />
+  <path fill="#f5c276" d="M29,4v70h-3V4H29 M30,3h-5v72h5V3L30,3z" />
+  <path fill="#ffeea3" d="M17.5 3.5H21.5V74.5H17.5z" />
+  <path fill="#f5c276" d="M21,4v70h-3V4H21 M22,3h-5v72h5V3L22,3z" />
+  <path fill="#ffeea3" d="M4.5 56.5H75.5V60.5H4.5z" />
+  <path fill="#f5c276" d="M75,57v3H5v-3H75 M76,56H4v5h72V56L76,56z" />
+  <path fill="#ffeea3" d="M4.5 48.5H75.5V52.5H4.5z" />
+  <path fill="#f5c276" d="M75,49v3H5v-3H75 M76,48H4v5h72V48L76,48z" />
+  <path fill="#ffeea3" d="M4.5 40.5H75.5V44.5H4.5z" />
+  <path fill="#f5c276" d="M75,41v3H5v-3H75 M76,40H4v5h72V40L76,40z" />
+  <g>
+    <path fill="#ffeea3" d="M4.5 32.5H75.5V36.5H4.5z" />
+    <path fill="#f5c276" d="M75,33v3H5v-3H75 M76,32H4v5h72V32L76,32z" />
+  </g>
+  <g>
+    <path fill="#ffeea3" d="M4.5 24.5H75.5V28.5H4.5z" />
+    <path fill="#f5c276" d="M75,25v3H5v-3H75 M76,24H4v5h72V24L76,24z" />
+  </g>
+  <g>
+    <path fill="#ffeea3" d="M4.5 16.5H75.5V20.5H4.5z" />
+    <path fill="#f5c276" d="M75,17v3H5v-3H75 M76,16H4v5h72V16L76,16z" />
+  </g>
+  <g>
+    <path fill="#4b6477" d="M14.866,67.5c-1.856,0-3.366-1.51-3.366-3.366V13.866c0-1.856,1.51-3.366,3.366-3.366h50.268 c1.856,0,3.366,1.51,3.366,3.366v50.268c0,1.856-1.51,3.366-3.366,3.366H14.866z" />
+    <path fill="#36404d" d="M65.133,11C66.714,11,68,12.286,68,13.867v50.267C68,65.714,66.714,67,65.133,67H14.867 C13.286,67,12,65.714,12,64.133V13.867C12,12.286,13.286,11,14.867,11H65.133 M65.133,10H14.867C12.731,10,11,11.731,11,13.867 v50.267C11,66.269,12.731,68,14.867,68h50.267C67.269,68,69,66.269,69,64.133V13.867C69,11.731,67.269,10,65.133,10L65.133,10z" />
+  </g>
+  <g>
+    <path fill="#c5d4de" d="M58 18A3 3 0 1 0 58 24A3 3 0 1 0 58 18Z" />
+  </g>
+  <g>
+    <path fill="#c5d4de" d="M22 18A3 3 0 1 0 22 24A3 3 0 1 0 22 18Z" />
+  </g>
+  <g>
+    <path fill="#c5d4de" d="M58 54A3 3 0 1 0 58 60A3 3 0 1 0 58 54Z" />
+  </g>
+  <g>
+    <path fill="#c5d4de" d="M22 54A3 3 0 1 0 22 60A3 3 0 1 0 22 54Z" />
+  </g>
+</svg>

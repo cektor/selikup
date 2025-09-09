@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=selikup
+Comment=This program helps you download and install the kernel from the KERNEL main repository.
+Exec=python3 /usr/bin/selikup.py
+Icon=/usr/share/icons/hicolor/48x48/apps/selikup001.png
+Terminal=false
+Categories=Utility;
+
+Name[tr_TR]=Selikup Kernel Güncelleyici
+
