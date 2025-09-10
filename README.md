@@ -81,5 +81,5 @@ wget -O Setup_Linux64.deb https://github.com/cektor/selikup/releases/download/1.
 
 
 
-Release Page: https://github.com/cektor/BytCon/releases/tag/1.00
+Release Page: https://github.com/cektor/selikup/releases/tag/1.00
 
