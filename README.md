@@ -76,10 +76,10 @@ python3 -m pyinstaller --onefile --windowed selikup.py
 
 Linux (based debian) Terminal: Linux (debian based distributions) To install directly from Terminal.
 ```bash
-wget -O Setup_Linux64.deb https://github.com/cektor/selikup/releases/download/1.00/Setup_Linux64.deb && sudo apt install ./Setup_Linux64.deb && sudo apt-get install -f -y
+wget -O Setup_Linux64.deb https://github.com/cektor/selikup/releases/download/1.0.1/Setup_Linux64.deb && sudo apt install ./Setup_Linux64.deb && sudo apt-get install -f -y
 ```
 
 
 
-Release Page: https://github.com/cektor/selikup/releases/tag/1.00
+Release Page: https://github.com/cektor/selikup/releases/tag/1.0.1
 
